@@ -36,8 +36,8 @@ int main()
  cin >> t;
  deb(t);
 
- while (t–) {
- solve()
+ while (t--) {
+ solve();git 
  }
 
  return 0;
